@@ -4,7 +4,7 @@
 + Creacion lista de tareas en JS
 + Añadir tareas.
 + Borrar tarea individualmente.
-+ Borar todas las tareas.
++ Borrar todas las tareas.
 + Persistencia de los datos en LocalStorage.
 
 
@@ -15,3 +15,5 @@
 
 ![](imagen-tareas.jpg)
 
+## Lenguajes
++ JavaScript
