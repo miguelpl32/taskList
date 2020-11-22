@@ -13,5 +13,5 @@
 [Visita el proyecto](https://miguelpl32.github.io/taskList/)
 
 
-![](src/assets/youtube-app.jpg)
+![](imagen-tareas.jpg)
 
